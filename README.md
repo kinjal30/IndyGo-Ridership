@@ -1,6 +1,6 @@
 # IndyGo-Ridership
 
-# 🚍 IndyGo Ridership Dashboard Project
+# 🚍 IndyGo Ridership Dashboard Project - (LINK- https://drive.google.com/file/d/1YYat3H_t9PYhBs8Dp24qfe98pyiPymDB/view?usp=sharing)
 
 This project explores ridership trends for IndyGo, Indianapolis’ public transportation provider, using real-world transit data from 2022 to 2024. The goal is to provide data-driven insights through interactive Power BI dashboards and lay the groundwork for a broader open data platform to support transparency, planning, and research.
 ---
@@ -70,10 +70,15 @@ The data is modeled using a star schema for efficient querying in Power BI:
 
 ## 📸 Dashboard Previews
 
-> 🔗 Screenshots of 3 dashboards (daily trends, route breakdown, stop-level ridership)
+> 🔗 Screenshots of 3 dashboards (stop-level ridership, daily trends, route breakdown,)
+
+> STOP-LEVEL RIDERSHIP 
 ![WhatsApp Image 2025-04-10 at 19 16 22_be0d578d](https://github.com/user-attachments/assets/4543696c-cd4f-4f49-b291-ddacca2169e7)
+
+> DAILY TRENDS 
 >![WhatsApp Image 2025-04-10 at 19 16 50_854ff306](https://github.com/user-attachments/assets/4b8a95a4-6c77-4e56-9a6c-a9998162eaa4)
 
+>ROUTE BREAKDOWN
 > ![WhatsApp Image 2025-04-10 at 19 16 36_4c2574e1](https://github.com/user-attachments/assets/61e1634e-dcc6-438b-8dc9-1d06c2f23e3d)
 
 
@@ -91,6 +96,6 @@ The data is modeled using a star schema for efficient querying in Power BI:
 
 Feel free to connect if you're interested in data analytics, public transit tech, or just want to talk dashboards!
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/kinjal-keshri/)
 
 ---
