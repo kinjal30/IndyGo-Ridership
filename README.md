@@ -57,6 +57,9 @@ The data is modeled using a star schema for efficient querying in Power BI:
 - **Fact Table**: Contains ride counts, time metrics, boarding/alighting numbers.
 - **Dimension Tables**: Route details, stop locations, service categories, and time dimensions.
 
+Data Modeling:
+
+![image](https://github.com/user-attachments/assets/3b3d7ee8-478e-41e6-8c14-b7cd34066d64)
 ---
 
 ## 🛠️ Tools & Technologies
@@ -80,7 +83,6 @@ The data is modeled using a star schema for efficient querying in Power BI:
 
 >ROUTE BREAKDOWN
 > ![WhatsApp Image 2025-04-10 at 19 16 36_4c2574e1](https://github.com/user-attachments/assets/61e1634e-dcc6-438b-8dc9-1d06c2f23e3d)
-
 
 ---
 
