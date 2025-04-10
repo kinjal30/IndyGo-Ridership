@@ -1,10 +1,10 @@
 # IndyGo-Ridership
 
-# 🚍 IndyGo Ridership Dashboard Project - (LINK- https://drive.google.com/file/d/1YYat3H_t9PYhBs8Dp24qfe98pyiPymDB/view?usp=sharing)
+# 🚍 IndyGo Ridership Dashboard Project 
 
 This project explores ridership trends for IndyGo, Indianapolis’ public transportation provider, using real-world transit data from 2022 to 2024. The goal is to provide data-driven insights through interactive Power BI dashboards and lay the groundwork for a broader open data platform to support transparency, planning, and research.
 ---
-
+- (LINK- https://drive.google.com/file/d/1YYat3H_t9PYhBs8Dp24qfe98pyiPymDB/view?usp=sharing)
 ## 📊 Project Objectives
 
 - Build a **Ridership Dashboard** to support IndyGo’s transparency and data initiatives.
